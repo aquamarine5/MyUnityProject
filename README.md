@@ -9,7 +9,7 @@
 
 使用的素材和包：
 
-* Unity Survival Shooter 官方3d demo
+* __Unity Survival Shooter 官方3d demo__
 * X_Lightbolt
 * TreasureChestMaker
 * Unity Standard Asset
